@@ -1,0 +1,6 @@
+.env
+node_modules
+
+# ParcelJS
+.cache/
+dist/
